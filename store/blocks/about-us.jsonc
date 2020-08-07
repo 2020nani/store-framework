@@ -11,7 +11,7 @@
           "tab-content#home"
         ]
       },
-    
+
       "tab-list#home": {
         "children": [
           "tab-list.item#home1",

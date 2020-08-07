@@ -76,7 +76,7 @@
     "white-025": "rgba(255,255,255,.025)",
     "white-0125": "rgba(255,255,255,.0125)"
   },
-  
+
   "semanticColors": {
     "background": {
       "base": "#ffffff",
@@ -98,7 +98,7 @@
       "muted-5": "#f2f4f5"
     },
     "hover-background": {
-      "action-primary": " #45a6a3",
+      "action-primary": "#072c75",
       "action-secondary": "#dbe9fd",
       "emphasis": "#dd1659",
       "success": "#8bc34a",
@@ -190,7 +190,7 @@
       "muted-5": "#f2f4f5"
     },
     "hover-border": {
-      "action-primary": " #45a6a3",
+      "action-primary": "#45a6a3",
       "action-secondary": "#dbe9fd",
       "emphasis": "#dd1659",
       "success": "#8bc34a",

@@ -63,7 +63,7 @@
     "props": {
       "initialSelection": "image",
       "showValueForVariation": "image",
-      "hideImpossibleCombinations": false
+      "showVariationsErrorMessage":true
     }
   }
  

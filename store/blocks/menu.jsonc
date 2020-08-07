@@ -50,7 +50,7 @@
       "orientation":"vertical"
     },
     "children":[
-      "menu-item#camera", 
+      "menu-item#cameras", 
       "menu-item#laptops",  
       "menu-item#tvs"
     ]
